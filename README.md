@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img height="" alt="banner" src=""  />
-</div>
+</div> -->
 
 <h1 align="left">👋 Hi there, I'm Mahmudul Hasan Titumir</h1>
 <h3 align="left">🔧 Aspiring Web Developer | AI Enthusiast | 🔥 Reimagining #Dhaka as the tech hub of South Asia 🚀

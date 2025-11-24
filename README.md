@@ -18,12 +18,12 @@
 I'm Mahmudul Hasan Titumir, a dedicated and passionate frontend developer with a knack for creating engaging and user-friendly web applications. With a strong foundation in JavaScript and React, I strive to build seamless digital experiences that captivate users and drive business success.
 
 - 🔭 I’m currently working on **React Project and Learning Next.js**
-- 📫 How to reach me **mahmudulhasantitumir@gmail.com**
+- 📫 How to reach me [mahmudulhasantitumir@gmail.com](mailto:mahmudulhasantitumir@gmail.com)
 - 🙋‍♂️ Pronouns: [he/him](https://pronouns.org/he-him)
-- 🌍 Visit my portfolio website at [mahmudtitumir]:https://mahmudtitumir.com
+- 🌍 Visit my portfolio website at [mahmudtitumir]:(#)
 - 📝 I regularly write articles on [https://dev.to/mahmudtitumir](https://dev.to/mahmudtitumir)
-- 🌱 I’m currently learning **Backend Development**
-- 📄 Know about my experiences [Resume](https://mahmudtitumir.com/resume)
+- 📄 Know about my experiences [Resume](#)
+<!-- - 🌱 I’m currently learning **Full-Stack Development** -->
 
 <h2 align='left'>🔗 Connect with me:</h2>
 

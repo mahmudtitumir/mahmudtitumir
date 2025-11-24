@@ -1,0 +1,4 @@
+kramdown:
+  input: Kramdown
+markdown_extensions:
+  - attr_list

@@ -28,14 +28,14 @@ I'm Mahmudul Hasan Titumir, a dedicated and passionate frontend developer with a
 <h2 align='left'>🔗 Connect with me:</h2>
 
 <p align="left">
-<a href="https://dev.to/mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahmudtitumir" height="30" width="40" /></a>
-<a href="https://twitter.com/_mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mahmudtitumir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudtitumir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30174739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmudtitumie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmudtitumir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmudtitumir" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmudtitumir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmudtitumir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmudtitumir" height="30" width="40" /></a>
+<a href="https://dev.to/mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahmudtitumir" height="30" width="40" /></a>
+<a href="https://twitter.com/_mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mahmudtitumir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudtitumir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30174739" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmudtitumie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmudtitumir" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmudtitumir" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmudtitumir" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahmudtitumir" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmudtitumir" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Skills set:</h2>
